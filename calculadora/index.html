@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Calculadora</title>
+        <meta charset="utf-8">
+        <link href="styles.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+        <div id="container">
+            <p id="display"></p>
+            <table>
+                <tr>
+                    <td><button class="button" onclick="clean()">CE</button></td>
+                    <td><button class="button" onclick="insert('x')">x</button></td>
+                    <td><button class="button" onclick="insert('/')">/</button></td>
+                    <td><button class="button" onclick="backspace()" id="backspace" >&larr;</button></td>
+                </tr>
+                <tr>
+                    <td><button class="button" onclick="insert(7)">7</button></td>
+                    <td><button class="button" onclick="insert(8)">8</button></td>
+                    <td><button class="button" onclick="insert(9)">9</button></td>
+                    <td><button class="button" onclick="insert('+')">+</button></td>
+                </tr>
+                <tr>
+                    <td><button class="button" onclick="insert(4)">4</button></td>
+                    <td><button class="button" onclick="insert(5)">5</button></td>
+                    <td><button class="button" onclick="insert(6)">6</button></td>
+                    <td><button class="button" onclick="insert('-')">-</button></td>
+                </tr>
+                <tr>
+                    <td><button class="button" onclick="insert(3)">3</button></td>
+                    <td><button class="button" onclick="insert(2)">2</button></td>
+                    <td><button class="button" onclick="insert(1)">1</button></td>
+                    <td><button class="button" onclick="insert('**')">x^y</button></td>
+                </tr>
+                <tr>
+                    <td><button class="button" onclick="insert('%')">%</button></td>
+                    <td><button class="button" onclick="insert(0)">0</button></td>
+                    <td><button class="button" onclick="insert('.')">.</button></td>
+                    <td><button class="button" onclick="calc()" id="equal"  >=</button></td>
+                </tr>
+            </table>
+        </div>
+        <script src="scripts.js"></script>
+    </body>
+</html>
