@@ -1,8 +1,16 @@
 # Calculadora
-Neste código, usei HTML, PHP e Javascript para recriar uma calculadora com funcionalidade simples. Através desse projeto, pude consolidar meu aprendizado em diversas áreas importantes na programação, como por exemplo:
-<ul>
- <li>A definição de tabelas usando HTML tabelas, ao utilizar elas para construir a arquitetura dos botões da calculadora;</li>
- <li>As pseudoclasses, ao estilizar os botões para que quando fosse passar o mouse por cima deles e os clicasse, para que estas ações fossem melhor fossem mais facilmente identificadas; </li>
- <li>As funções e o evento onclick, ao criar funções para cada funcionalidade dentro da calculadora, utilizando muito o comando document.getElementbyId(), para que fosse obtido o conteúdo de cada botão e do display e o manipulado para que fosse obtido o funcionamento esperado de cada um para o retorno do resultado correto.</li>
-</ul>
- 
+<h1>Calculadora Simples</h1>
+    <p>
+         Neste projeto, utilizei HTML, PHP e JavaScript para criar uma calculadora com funcionalidade simples. Durante 
+         o desenvolvimento, pude aprofundar meu conhecimento em várias áreas essenciais da programação, incluindo:
+    </p>
+    <ul>
+        <li>Utilização de tabelas HTML para criar a estrutura dos botões da calculadora.</li>
+        <li>
+             Aplicação de pseudoclasses para estilizar os botões, facilitando a identificação de ações ao passar o                   mouse e clicar neles.
+        </li>
+        <li> 
+             Criação de funções e utilização do evento "onclick" para implementar a lógica de cada funcionalidade na
+             calculadora. Foi fundamental o uso do método "document.getElementById()" para obter e manipular o conteúdo              dos botões e do visor, garantindo o funcionamento correto e o retorno dos resultados esperados.
+        </li>
+    </ul>
