@@ -1,4 +1,5 @@
 # Calculadora
+<HTML>
     <p>
          Neste projeto, utilizei HTML, PHP e JavaScript para criar uma calculadora funcional. Durante 
          o desenvolvimento, pude aprofundar meu conhecimento em várias áreas essenciais da programação, incluindo:
@@ -13,3 +14,4 @@
              calculadora. Foi fundamental o uso do método "document.getElementById()" para obter e manipular o conteúdo              dos botões e do visor, garantindo o funcionamento correto e o retorno dos resultados esperados.
         </li>
     </ul>
+</HTML>
