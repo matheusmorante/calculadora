@@ -1,5 +1,4 @@
 # Calculadora
-<h1>Calculadora</h1>
     <p>
          Neste projeto, utilizei HTML, PHP e JavaScript para criar uma calculadora funcional. Durante 
          o desenvolvimento, pude aprofundar meu conhecimento em várias áreas essenciais da programação, incluindo:
