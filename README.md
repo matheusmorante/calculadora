@@ -1,17 +1,20 @@
-# Calculadora
-<HTML>
-    <p>
-         Neste projeto, utilizei HTML, PHP e JavaScript para criar uma calculadora funcional. Durante 
-         o desenvolvimento, pude aprofundar meu conhecimento em várias áreas essenciais da programação, incluindo:
-    </p>
-    <ul>
-        <li>Utilização de tabelas HTML para criar a estrutura dos botões da calculadora.</li>
-        <li>
-             Aplicação de pseudoclasses para estilizar os botões, facilitando a identificação de ações ao passar o                   mouse e clicar neles.
-        </li>
-        <li> 
-             Criação de funções e utilização do evento "onclick" para implementar a lógica de cada funcionalidade na
-             calculadora. Foi fundamental o uso do método "document.getElementById()" para obter e manipular o conteúdo              dos botões e do visor, garantindo o funcionamento correto e o retorno dos resultados esperados.
-        </li>
-    </ul>
-</HTML>
+# Calculadora Web Responsiva
+
+Este é um projeto de calculadora web responsiva que permite aos usuários realizar operações matemáticas simples. A calculadora é projetada para se ajustar automaticamente a diferentes tamanhos de tela, proporcionando uma experiência de usuário consistente em dispositivos móveis e desktop.
+
+## Funcionalidades
+
+- Inserir números e operadores no visor da calculadora.
+- Limpar o visor da calculadora.
+- Apagar o último caractere do visor.
+- Calcular o resultado de expressões matemáticas.
+- Manipular operações de adição, subtração, multiplicação, divisão, potenciação e porcentagem.
+
+## Tecnologias Utilizadas
+
+- **HTML5**: Estruturação do conteúdo da página.
+- **CSS3**: Estilização dos elementos da calculadora.
+- **JavaScript**: Implementação da lógica da calculadora.
+- **Google Fonts**: Fonte personalizada 'Roboto' para estilização.
+- **Responsividade**: Layout adaptável para dispositivos móveis e desktop.
+
